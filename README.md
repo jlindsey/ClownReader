@@ -1,36 +1,19 @@
-# clownreader
-
-FIXME: description
+# ClownReader
+A simple, curses-based RSS reader in Clojure.
 
 ## Installation
-
-Download from http://example.com/FIXME.
+Download from GitHub.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar clownreader-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
+    $ clownreader
 
 ### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Probably.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Joshua Lindsey under the MIT License.
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+See [LICENSE](LICENSE) for details.
+
